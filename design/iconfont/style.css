@@ -1,0 +1,67 @@
+@font-face {
+    font-family: 'jianli3';
+    src:    url('fonts/jianli3.eot?ibic5b');
+    src:    url('fonts/jianli3.eot?ibic5b#iefix') format('embedded-opentype'),
+        url('fonts/jianli3.ttf?ibic5b') format('truetype'),
+        url('fonts/jianli3.woff?ibic5b') format('woff'),
+        url('fonts/jianli3.svg?ibic5b#jianli3') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'jianli3' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    
+    /* Enable Ligatures ================ */
+    letter-spacing: 0;
+    -webkit-font-feature-settings: "liga";
+    -moz-font-feature-settings: "liga=1";
+    -moz-font-feature-settings: "liga";
+    -ms-font-feature-settings: "liga" 1;
+    font-feature-settings: "liga";
+    -webkit-font-variant-ligatures: discretionary-ligatures;
+    font-variant-ligatures: discretionary-ligatures;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-icon13:before {
+    content: "\48";
+}
+.icon-V:before {
+    content: "\56";
+}
+.icon-D:before {
+    content: "\44";
+}
+.icon-K:before {
+    content: "\6b";
+}
+.icon-U:before {
+    content: "\55";
+}
+.icon-q:before {
+    content: "\51";
+}
+.icon-E:before {
+    content: "\45";
+}
+.icon-key2:before {
+    content: "\4b";
+}
+.icon-lock:before {
+    content: "\4c";
+}
+.icon-unlocked:before {
+    content: "\6c";
+}
+
