@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'jianli';
+    src:    url('fonts/jianli.eot?pp5q0s');
+    src:    url('fonts/jianli.eot?pp5q0s#iefix') format('embedded-opentype'),
+        url('fonts/jianli.ttf?pp5q0s') format('truetype'),
+        url('fonts/jianli.woff?pp5q0s') format('woff'),
+        url('fonts/jianli.svg?pp5q0s#jianli') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'jianli' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    
+    /* Enable Ligatures ================ */
+    letter-spacing: 0;
+    -webkit-font-feature-settings: "liga";
+    -moz-font-feature-settings: "liga=1";
+    -moz-font-feature-settings: "liga";
+    -ms-font-feature-settings: "liga" 1;
+    -o-font-feature-settings: "liga";
+    font-feature-settings: "liga";
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-q:before {
+    content: "\51";
+}
+.icon-E:before {
+    content: "\45";
+}
+
