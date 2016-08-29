@@ -20,6 +20,9 @@ document.body.addEventListener("click", function(e) {
             window.icomoonLiga(testDrive);
         }
     }
+
+
+
     function updateSize() {
         testDrive.style.fontSize = fontSize.value + 'px';
     }
