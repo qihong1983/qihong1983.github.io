@@ -896,11 +896,8 @@
   position:absolute;
   left:227px;
   top:200px;
-  width:85px;
+  width:96px;
   height:20px;
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
-  font-weight:700;
-  font-style:normal;
   font-size:14px;
   color:#1A1A1A;
   line-height:20px;
@@ -909,14 +906,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:85px;
+  width:96px;
   height:20px;
 }
 #u72 {
   position:absolute;
   left:0px;
   top:0px;
-  width:85px;
+  width:96px;
   white-space:nowrap;
 }
 #u73 {
